@@ -25,11 +25,15 @@ This project is a **Pet Adoption Homepage design** created as part of **Elevvo P
 
 ### Mockups
 
-![Mockups](./Images/3.png)![](./Images/4.png)![](./Images/5.png)
+![Mockups](./Images/3.png)
+
+![](./Images/4.png)
+
+![](./Images/5.png)
 
 ### Homepage Design
 
-![Home page Design](./Images/web.png)
+![Home page Design](./Images/Desktop.jpg)
 
 ### Color Style
 
